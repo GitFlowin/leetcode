@@ -1,4 +1,4 @@
-package com.gitflowin.solutions;
+package com.gitflowin.solutions.arrays_and_hashing;
 
 import java.util.ArrayList;
 import java.util.Comparator;
